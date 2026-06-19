@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniAppWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0ee312614b9c233ef5d23e2afd1543066ea2b06")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniAppWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniAppWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
